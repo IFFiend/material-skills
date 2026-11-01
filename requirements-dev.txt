@@ -1,3 +1,0 @@
--r requirements.txt
-PyYAML>=6,<7
-playwright>=1.50,<2

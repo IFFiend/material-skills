@@ -1,7 +1,0 @@
-{
- "issuer":{"name":"Foundry Studio","contact":"hello@foundry.example"},
- "quotes":[
-  {"id":"Q-2026-001","client":"North Pier Collective","title":"A clearer launch, from first look to final delivery.","date":"2026-11-01","valid_until":"2026-11-15","currency":"AUD","tax_bps":1000,"terms":"50% on acceptance; balance on delivery. Two revision rounds included. Scope changes require a revised quote. Fictional example only.","lines":[{"description":"Brand and campaign direction","quantity":"1","unit_minor":120000},{"description":"Event campaign assets — three sizes per event","quantity":"6","unit_minor":18000},{"description":"Handover workshop","quantity":"1.5","unit_minor":15000}],"total_minor":275550},
-  {"id":"Q-2026-002","client":"Common Ground Workshop","title":"A practical guide for your next team onboarding.","date":"2026-11-01","valid_until":"2026-11-22","currency":"AUD","tax_bps":1000,"terms":"Delivery within 10 business days of receiving the agreed inputs. Fictional example; tax rate is supplied, not inferred.","lines":[{"description":"Workflow capture and documentation","quantity":"4","unit_minor":22500},{"description":"Editable guide handover","quantity":"1","unit_minor":30000}],"total_minor":132000}
- ]
-}
