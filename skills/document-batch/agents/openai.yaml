@@ -1,0 +1,3 @@
+interface:
+  display_name: "Document Batch"
+  short_description: "Generate checked quote batches from structured data"

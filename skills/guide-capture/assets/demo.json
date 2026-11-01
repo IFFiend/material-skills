@@ -1,0 +1,65 @@
+{
+  "title": "Review an event before publishing",
+  "audience": "Fictional handover for an event coordinator.",
+  "prerequisites": "Synthetic screenshots only; no successful live workflow is demonstrated.",
+  "steps": [
+    {
+      "id": "step-1",
+      "action": "Open the event draft",
+      "expected": "The draft shows its date and registration path.",
+      "observed": "Draft details are visible; status is DRAFT.",
+      "screenshot": "demo-step-1.png",
+      "origin": "synthetic-demo",
+      "redact": [
+        [
+          350,
+          670,
+          760,
+          710
+        ]
+      ],
+      "highlight": []
+    },
+    {
+      "id": "step-2",
+      "action": "Review the timezone",
+      "expected": "The displayed time includes AEDT.",
+      "observed": "The time field reads 18:30 AEDT.",
+      "screenshot": "demo-step-2.png",
+      "origin": "synthetic-demo",
+      "redact": [
+        [
+          350,
+          670,
+          760,
+          710
+        ]
+      ],
+      "highlight": [
+        [
+          330,
+          430,
+          700,
+          515
+        ]
+      ]
+    },
+    {
+      "id": "step-3",
+      "action": "Inspect the saved preview",
+      "expected": "A saved status and event summary are visible.",
+      "observed": "Synthetic preview displays SAVED and the event summary.",
+      "screenshot": "demo-step-3.png",
+      "origin": "synthetic-demo",
+      "redact": [
+        [
+          350,
+          670,
+          760,
+          710
+        ]
+      ],
+      "highlight": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Guide Capture"
+  short_description: "Build redacted guides from observed screenshot evidence"
